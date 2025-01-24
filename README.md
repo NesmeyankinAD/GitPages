@@ -1,8 +1,8 @@
-Александр, 24 года.
+Alexander, 24 years old.
 
-Учусь на втором курсе магистратуры. 
-Пишу диссертацию на тему "Электропривод рулевых поверхностей летательного аппарата".
+I'm in my second year of graduate studies. 
+I am writing a dissertation on the topic "Electric steering surfaces of an aircraft".
 
-Учусь программировать микроконтроллеры, изучаю язык С++.
+I'm learning to program microcontrollers, and I'm learning C++.
 
 ![File](file.png)
